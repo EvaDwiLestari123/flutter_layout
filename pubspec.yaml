@@ -64,6 +64,11 @@ flutter:
     - assets/images/submarine4.jpg
     - assets/images/submarine5.jpg
     - assets/images/submarine6.jpg
+    - assets/images/sungai_martapura.jpg
+    - assets/images/banyuwangi.jpg
+    - assets/images/kebumen.jpg
+    - assets/images/bromo.jpg
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

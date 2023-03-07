@@ -49,4 +49,36 @@ var tourismPlaceList = [
           'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci molestias voluptatibus voluptatem.',
       time: '10.00:18.00',
       harga: 'Rp.12000'),
+  TourismPlace(
+      name: 'Kebun Karet Nasional',
+      location: 'Banyuwangi',
+      imageAsset: 'assets/images/banyuwangi.jpg',
+      detail:
+          'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci molestias voluptatibus voluptatem.',
+      time: '10.00:18.00',
+      harga: 'Rp.12000'),
+  TourismPlace(
+      name: 'Ladang Perkebunan',
+      location: 'Kebumen, Jawa Tengah',
+      imageAsset: 'assets/images/kebumen.jpg',
+      detail:
+          'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci molestias voluptatibus voluptatem.',
+      time: '10.00:18.00',
+      harga: 'Rp.12000'),
+  TourismPlace(
+      name: 'Gunung Bromo',
+      location: 'Pasuruan, Malang, Probolinggo',
+      imageAsset: 'assets/images/bromo.jpg',
+      detail:
+          'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci molestias voluptatibus voluptatem.',
+      time: '10.00:18.00',
+      harga: 'Rp.12000'),
+  TourismPlace(
+      name: 'Sungai Martapura',
+      location: 'Kalimantan',
+      imageAsset: 'assets/images/sungai_martapura.jpg',
+      detail:
+          'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci molestias voluptatibus voluptatem.',
+      time: '10.00:18.00',
+      harga: 'Rp.12000'),
 ];
